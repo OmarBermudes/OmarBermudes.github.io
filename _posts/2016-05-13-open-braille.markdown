@@ -52,10 +52,3 @@ Suele consistir en celdas de seis puntos en relieve, organizados como una matriz
 ### Integrantes
 Bermudes Figueroa Omar
 Vargas Garcia Christian Alan
-
-
-8. El correo configurado recibe el enlace y al presionarlo puede ver lo siguiente.
-    <img src="images/pannic_button/p8.png"/ style="width:100%;">
-
-
-
