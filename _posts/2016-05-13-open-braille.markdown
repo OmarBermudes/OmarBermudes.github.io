@@ -53,8 +53,7 @@ Suele consistir en celdas de seis puntos en relieve, organizados como una matriz
     <img class="image-center" src="../images/open-braille/5.png"/>  
 
 ### Ejemplo  
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=zldj6Qdgoxc" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zldj6Qdgoxc" frameborder="0" allowfullscreen></iframe>
 
 ### Integrantes
 - Bermudes Figueroa Omar  
