@@ -20,7 +20,7 @@ Para resolver esta problemática creamos openBraille, una herramienta que respet
 El braille es un sistema de lectura y escritura táctil pensado para personas ciegas.
 El braille no es un idioma, sino un alfabeto, con él pueden representarse las letras, los signos de puntuación, los números, la grafía científica, los símbolos matemáticos, la música, etc.
 Suele consistir en celdas de seis puntos en relieve, organizados como una matriz de tres filas por dos columnas, que convencionalmente se numeran de arriba a abajo y de izquierda a derecha.  
-    <img class="image-center" src="images/open-braille/braille.png"/>  
+    <img class="image-center" src="/images/open-braille/braille.png"/>  
 
 ## ¿Qué tecnología usamos?
 - Arduino mega
