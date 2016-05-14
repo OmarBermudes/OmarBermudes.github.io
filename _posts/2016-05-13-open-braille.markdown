@@ -20,31 +20,40 @@ Para resolver esta problemática creamos openBraille, una herramienta que respet
 El braille es un sistema de lectura y escritura táctil pensado para personas ciegas.
 El braille no es un idioma, sino un alfabeto, con él pueden representarse las letras, los signos de puntuación, los números, la grafía científica, los símbolos matemáticos, la música, etc.
 Suele consistir en celdas de seis puntos en relieve, organizados como una matriz de tres filas por dos columnas, que convencionalmente se numeran de arriba a abajo y de izquierda a derecha.  
-    <img class="image-center" src="/images/open-braille/braille.png"/>  
+    <img class="image-center" src="../images/open-braille/braille.png"/>  
 
 ## ¿Qué tecnología usamos?
 - Arduino mega
+    <img class="image-center" src="../images/open-braille/arduino-mega.png"/>  
 - Motor A Pasos 28byj-48
+    <img class="image-center" src="../images/open-braille/motor-pasos.png"/>  
 - Driver Uln2003
+    <img class="image-center" src="../images/open-braille/driver.png"/>  
 - Fuente de poder ATX
+    <img class="image-center" src="../images/open-braille/fuente-de-poder.png"/>  
 - Impresora 3D
+    <img class="image-center" src="../images/open-braille/impresora-3d.png"/>  
 - SolidWorks
+    <img class="image-center" src="../images/open-braille/solidworks.png"/>  
 - Cables Dupont
+    <img class="image-center" src="../images/open-braille/dupont.png"/>  
 - C#
+    <img class="image-center" src="../images/open-braille/c-bebe-chris.png"/>  
 
 ## Modo de uso
 1. Encender la fuente de poder.
-    <img class="image-center" src="images/open-braille/"/>
+    <img class="image-center" src="../images/open-braille/1.png"/>
 2. Conectar el arduino a la computadora.
-    <img class="image-center" src="images/open-braille/"/>
+    <img class="image-center" src="../images/open-braille/2.png"/>
 3. Abrir la interfaz en la computadora.
-    <img class="image-center" src="images/open-braille/"/>
+    <img class="image-center" src="../images/open-braille/3.png"/>
 4. *Calibrar los motores (Por si no se apagó correctamente).
-    <img class="image-center" src="images/open-braille/"/>
+    <img class="image-center" src="../images/open-braille/4.png"/>
 5. Introducir el texto en el apartado de la interfaz y presionar Do it!.
+    <img class="image-center" src="../images/open-braille/5.png"/>  
 
 ### Ejemplo 
-<iframe width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=zldj6Qdgoxc" frameborder="0" allowfullscreen></iframe>
 
 
 ### Integrantes
