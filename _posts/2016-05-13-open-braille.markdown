@@ -57,4 +57,6 @@ Suele consistir en celdas de seis puntos en relieve, organizados como una matriz
 
 ### Integrantes
 - Bermudes Figueroa Omar  
-- Vargas Garcia Christian Alan
+- Vargas Garcia Christian Alan  
+### Aportes especiales
+- Sharon Gutiérrez
